@@ -22,3 +22,14 @@ This project is a powerful and scalable recommendation system designed to sugges
 <span style="font-size:24px;">•</span> **Pandas & NumPy**: Libraries for data manipulation and analysis...
 
 <span style="font-size:24px;">•</span> Surprise Library: Advanced library for collaborative filtering and recommendation algorithms.
+
+### Usage
+**Dataset Preparation**: Ensure the dataset includes user ratings and book metadata (e.g., title, author, genres).
+
+**Model Training**: Train recommendation models on the dataset using the provided scripts.
+
+**Efficient Filtering**: Use the Bloom Filter to reduce redundant computations during recommendation generation.
+
+**Similarity Grouping**: Leverage LSH to group similar books and enhance the recommendation process.
+
+**Generating Recommendations**: Run the script to generate recommendations for users or books.
