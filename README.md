@@ -33,3 +33,6 @@ This project is a powerful and scalable recommendation system designed to sugges
 **Similarity Grouping**: Leverage LSH to group similar books and enhance the recommendation process.
 
 **Generating Recommendations**: Run the script to generate recommendations for users or books.
+
+### Dataset link 
+The dataset used for this project is available on Kaggle: [Books Dataset](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset).
